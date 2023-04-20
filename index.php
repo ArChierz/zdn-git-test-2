@@ -9,6 +9,6 @@
 <body>
     <h1>Pertama</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, unde! Aut nihil voluptate aliquid dicta ipsa asperiores illo quisquam soluta distinctio nesciunt adipisci, necessitatibus tempore quaerat, laboriosam, veniam quo voluptates?</p>
-
+    <p>CTF{hgrhrhrh}</p>
 </body>
 </html>
